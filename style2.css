@@ -1,0 +1,172 @@
+/* .container{
+    background-image: url(/mlm/WhatsApp\ Image\ 2020-07-15\ at\ 12.00.15\ AM.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 36vw;
+    min-width: 20vw;
+
+    height: 80vh;
+    margin-top: 3rem;
+    position: relative;
+    
+} */
+p{
+    color: red;
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: 600;
+}
+/* .same1{
+   padding: 2rem;
+   background-color: blue;
+    border-top: 3px solid black ;
+}
+.main{
+    background-color: blue;
+
+
+} */
+.first{
+    /* transform: translateX(12rem); */
+    margin-left: 9rem;
+    position: absolute;
+    margin-top: 3.5rem;
+    transform: rotate(-20deg);
+
+}
+.second{
+
+    /* transform: translateX(13rem); */
+    margin-left: 16rem;
+
+    position: absolute;
+    margin-top: 3.5rem;
+    transform: rotate(20deg);
+
+}
+
+.third{
+
+  
+    margin-left: 23.5rem;
+
+    position: absolute;
+    margin-top: 10rem;
+    transform: rotate(70deg);
+
+
+
+}
+
+.forth{
+
+    margin-left: 23rem;
+
+    position: absolute;
+    margin-top: 19rem;
+    transform: rotate(110deg);
+
+}
+
+.fifth{
+
+    margin-left: 17rem;
+
+    position: absolute;
+
+    margin-top: 25rem;
+    transform: rotate(-28deg);
+    
+
+
+}
+.sixth{
+
+    margin-left: 9rem;
+    position: absolute;
+    margin-top: 25rem;
+    transform: rotate(20deg);
+}
+.seventh{
+    margin-left: 1.3rem;
+
+    position: absolute;
+    margin-top: 19rem;
+    transform: rotate(70deg);
+
+}
+/* .same2{
+    background-color: green;
+    padding: 1.5rem;
+
+
+} */
+/* .main{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.same3{
+    padding: ;
+} */
+.eight{
+    margin-left: 2.3rem;
+
+    position: absolute;
+    transform: rotate(110deg);
+    margin-top: 10rem;
+
+}
+.ninth{
+    margin-left: 8rem;
+    position: absolute;
+    margin-top: 9.5rem;
+    transform: rotate(-50deg);
+
+
+}
+.tenth{
+
+    margin-left: 17rem;
+
+    position: absolute;
+    margin-top: 10rem;
+    transform: rotate(50deg);
+
+}
+.eleven{
+    
+    margin-left: 17rem;
+
+    position: absolute;
+
+    margin-top: 19rem;
+    transform: rotate(-40deg);
+    
+}
+.tweleve{
+
+    transform: rotate(50deg);
+    margin-left: 7rem;
+    position: absolute;
+    margin-top: 18rem;
+
+
+}
+.thirteen{
+    position: absolute;
+    margin-top: 12rem;
+    margin-left: 12rem;
+
+}
+.fifteen{
+    position: absolute;
+    margin-top: 14rem;
+    margin-left: 12rem;
+
+}
+.fourteen{
+    position: absolute;
+    margin-top: 16.3rem;
+    margin-left: 11.5rem;
+}
